@@ -1,1 +1,2 @@
 Este es mi primer ejercicio individual con Git.
+Estoy aprendiendo a trabajar con repositorios.
